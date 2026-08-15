@@ -1,0 +1,27 @@
+class Solution {
+    public List<Integer> majorityElement(int[] nums) {
+
+        List<Integer> ls = new ArrayList<>();
+        HashMap<Integer, Integer> mpp = new HashMap<>();
+
+        int n = nums.length;
+        int mini = (n / 3) + 1;
+
+        for (int i = 0; i < n; i++) {
+
+            mpp.put(nums[i], mpp.getOrDefault(nums[i], 0) + 1);
+
+            if (mpp.get(nums[i]) == mini) {
+                ls.add(nums[i]);
+            }
+
+            if (ls.size() == 2) {
+                break;
+            }
+        }
+        Collections.sort(ls);
+
+        return ls;
+        
+    }
+}
