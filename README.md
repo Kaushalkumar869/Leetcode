@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Kaushalkumar869/Leetcode/tree/main/0001-two-sum/) | Easy |
+| [0015-3sum](https://github.com/Kaushalkumar869/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0053-maximum-subarray](https://github.com/Kaushalkumar869/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kaushalkumar869/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0229-majority-element-ii](https://github.com/Kaushalkumar869/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
@@ -29,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Kaushalkumar869/Leetcode/tree/main/0015-3sum/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Kaushalkumar869/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -37,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Kaushalkumar869/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0229-majority-element-ii](https://github.com/Kaushalkumar869/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
