@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/Kaushalkumar869/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kaushalkumar869/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0229-majority-element-ii](https://github.com/Kaushalkumar869/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
+| [0704-binary-search](https://github.com/Kaushalkumar869/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Kaushalkumar869/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Kaushalkumar869/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Hash Table
@@ -49,4 +50,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/Kaushalkumar869/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0704-binary-search](https://github.com/Kaushalkumar869/Leetcode/tree/main/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
