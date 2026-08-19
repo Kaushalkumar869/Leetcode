@@ -53,5 +53,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0367-valid-perfect-square](https://github.com/Kaushalkumar869/Leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0704-binary-search](https://github.com/Kaushalkumar869/Leetcode/tree/main/0704-binary-search/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0367-valid-perfect-square](https://github.com/Kaushalkumar869/Leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 <!---LeetCode Topics End-->
