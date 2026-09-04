@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Kaushalkumar869/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/Kaushalkumar869/Leetcode/tree/main/0015-3sum/) | Medium |
+| [0035-search-insert-position](https://github.com/Kaushalkumar869/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/Kaushalkumar869/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kaushalkumar869/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0229-majority-element-ii](https://github.com/Kaushalkumar869/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/Kaushalkumar869/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Kaushalkumar869/Leetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0704-binary-search](https://github.com/Kaushalkumar869/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Kaushalkumar869/Leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
