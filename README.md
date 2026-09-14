@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/Kaushalkumar869/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Kaushalkumar869/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kaushalkumar869/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0344-reverse-string](https://github.com/Kaushalkumar869/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Kaushalkumar869/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/Kaushalkumar869/Leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Kaushalkumar869/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Kaushalkumar869/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0344-reverse-string](https://github.com/Kaushalkumar869/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Kaushalkumar869/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/Kaushalkumar869/Leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/Kaushalkumar869/Leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
