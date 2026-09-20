@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/Kaushalkumar869/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kaushalkumar869/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0229-majority-element-ii](https://github.com/Kaushalkumar869/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
+| [0283-move-zeroes](https://github.com/Kaushalkumar869/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0704-binary-search](https://github.com/Kaushalkumar869/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Kaushalkumar869/Leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/Kaushalkumar869/Leetcode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/Kaushalkumar869/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kaushalkumar869/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Kaushalkumar869/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0283-move-zeroes](https://github.com/Kaushalkumar869/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/Kaushalkumar869/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Kaushalkumar869/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/Kaushalkumar869/Leetcode/tree/main/0392-is-subsequence/) | Easy |
