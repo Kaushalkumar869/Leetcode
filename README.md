@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Kaushalkumar869/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/Kaushalkumar869/Leetcode/tree/main/0015-3sum/) | Medium |
+| [0027-remove-element](https://github.com/Kaushalkumar869/Leetcode/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/Kaushalkumar869/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/Kaushalkumar869/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kaushalkumar869/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Kaushalkumar869/Leetcode/tree/main/0015-3sum/) | Medium |
+| [0027-remove-element](https://github.com/Kaushalkumar869/Leetcode/tree/main/0027-remove-element/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Kaushalkumar869/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Kaushalkumar869/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kaushalkumar869/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
