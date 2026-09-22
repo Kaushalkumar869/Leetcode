@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kaushalkumar869/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/Kaushalkumar869/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kaushalkumar869/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0217-contains-duplicate](https://github.com/Kaushalkumar869/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/Kaushalkumar869/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/Kaushalkumar869/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0704-binary-search](https://github.com/Kaushalkumar869/Leetcode/tree/main/0704-binary-search/) | Easy |
@@ -27,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Kaushalkumar869/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Kaushalkumar869/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0217-contains-duplicate](https://github.com/Kaushalkumar869/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/Kaushalkumar869/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -64,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Kaushalkumar869/Leetcode/tree/main/0015-3sum/) | Medium |
+| [0217-contains-duplicate](https://github.com/Kaushalkumar869/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/Kaushalkumar869/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Kaushalkumar869/Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 ## Counting
