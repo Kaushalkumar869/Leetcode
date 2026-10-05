@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/Kaushalkumar869/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Kaushalkumar869/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/Kaushalkumar869/Leetcode/tree/main/0392-is-subsequence/) | Easy |
+| [0443-string-compression](https://github.com/Kaushalkumar869/Leetcode/tree/main/0443-string-compression/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Kaushalkumar869/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Kaushalkumar869/Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/Kaushalkumar869/Leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -105,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/Kaushalkumar869/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Kaushalkumar869/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/Kaushalkumar869/Leetcode/tree/main/0392-is-subsequence/) | Easy |
+| [0443-string-compression](https://github.com/Kaushalkumar869/Leetcode/tree/main/0443-string-compression/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kaushalkumar869/Leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Kaushalkumar869/Leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/Kaushalkumar869/Leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
