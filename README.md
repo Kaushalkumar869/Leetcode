@@ -158,4 +158,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0739-daily-temperatures](https://github.com/Kaushalkumar869/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2236-root-equals-sum-of-children](https://github.com/Kaushalkumar869/Leetcode/tree/main/2236-root-equals-sum-of-children/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2236-root-equals-sum-of-children](https://github.com/Kaushalkumar869/Leetcode/tree/main/2236-root-equals-sum-of-children/) | Easy |
 <!---LeetCode Topics End-->
