@@ -117,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Kaushalkumar869/Leetcode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/Kaushalkumar869/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Kaushalkumar869/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Kaushalkumar869/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -165,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Kaushalkumar869/Leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Kaushalkumar869/Leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Kaushalkumar869/Leetcode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Kaushalkumar869/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Kaushalkumar869/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Kaushalkumar869/Leetcode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
@@ -174,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Kaushalkumar869/Leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Kaushalkumar869/Leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Kaushalkumar869/Leetcode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Kaushalkumar869/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Kaushalkumar869/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Kaushalkumar869/Leetcode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
@@ -181,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Kaushalkumar869/Leetcode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Kaushalkumar869/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Kaushalkumar869/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Kaushalkumar869/Leetcode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
@@ -189,5 +193,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Kaushalkumar869/Leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Kaushalkumar869/Leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Kaushalkumar869/Leetcode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Kaushalkumar869/Leetcode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 <!---LeetCode Topics End-->
