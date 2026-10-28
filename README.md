@@ -173,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/Kaushalkumar869/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Kaushalkumar869/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Kaushalkumar869/Leetcode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
+| [0700-search-in-a-binary-search-tree](https://github.com/Kaushalkumar869/Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [2236-root-equals-sum-of-children](https://github.com/Kaushalkumar869/Leetcode/tree/main/2236-root-equals-sum-of-children/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -185,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/Kaushalkumar869/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Kaushalkumar869/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Kaushalkumar869/Leetcode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
+| [0700-search-in-a-binary-search-tree](https://github.com/Kaushalkumar869/Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [2236-root-equals-sum-of-children](https://github.com/Kaushalkumar869/Leetcode/tree/main/2236-root-equals-sum-of-children/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -204,4 +206,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Kaushalkumar869/Leetcode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Kaushalkumar869/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Kaushalkumar869/Leetcode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Kaushalkumar869/Leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
