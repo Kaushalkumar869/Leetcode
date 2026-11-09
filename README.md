@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/Kaushalkumar869/Leetcode/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/Kaushalkumar869/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/Kaushalkumar869/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0078-subsets](https://github.com/Kaushalkumar869/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kaushalkumar869/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/Kaushalkumar869/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kaushalkumar869/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -154,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/Kaushalkumar869/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/Kaushalkumar869/Leetcode/tree/main/0136-single-number/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -233,4 +235,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Kaushalkumar869/Leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/Kaushalkumar869/Leetcode/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
