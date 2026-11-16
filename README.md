@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0946-validate-stack-sequences](https://github.com/Kaushalkumar869/Leetcode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/Kaushalkumar869/Leetcode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Kaushalkumar869/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1905-count-sub-islands](https://github.com/Kaushalkumar869/Leetcode/tree/main/1905-count-sub-islands/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Kaushalkumar869/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -216,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Kaushalkumar869/Leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/Kaushalkumar869/Leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Kaushalkumar869/Leetcode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
+| [1905-count-sub-islands](https://github.com/Kaushalkumar869/Leetcode/tree/main/1905-count-sub-islands/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -228,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/Kaushalkumar869/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/Kaushalkumar869/Leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Kaushalkumar869/Leetcode/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
+| [1905-count-sub-islands](https://github.com/Kaushalkumar869/Leetcode/tree/main/1905-count-sub-islands/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -257,8 +260,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/Kaushalkumar869/Leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [1905-count-sub-islands](https://github.com/Kaushalkumar869/Leetcode/tree/main/1905-count-sub-islands/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/Kaushalkumar869/Leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [1905-count-sub-islands](https://github.com/Kaushalkumar869/Leetcode/tree/main/1905-count-sub-islands/) | Medium |
 <!---LeetCode Topics End-->
